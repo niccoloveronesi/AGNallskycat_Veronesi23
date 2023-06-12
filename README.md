@@ -11,6 +11,8 @@ Cite: Citation for Name (same as Milliquas v7.7b)
 
 z: Spectroscopic redshift
 
+zCite: Redshift from the literature or estimated (same as Milliquas v7.7b)
+
 IDunWISE: unWISE identifier
 
 RA: Right Ascension [deg] J2000
